@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+user-service:
+  message: "Welcome to Vepay local APIs "
+  contactDetails:
+    name: " Osada - Developer"
+    email: "osada@vepay.io"
+  onCallSupport:
+    - 0774040327
