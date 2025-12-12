@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 onboarding-service:
-  message: "Welcome to Vepay local APIs "
+  message: "Welcome to Vepay Prod APIs "
   contactDetails:
     name: " Osada - Developer"
     email: "{cipher}948ade75684266f05f755db0897dc153055d408a282c30db5e2e6066614f3400"
